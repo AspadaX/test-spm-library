@@ -2,7 +2,7 @@
   "name": "test-spm-library",
   "description": "Default description",
   "version": "0.1.0",
-  "namespace": "default-namespace",
+  "namespace": "AspadaX",
   "interpreter": "Sh",
   "entrypoint": "lib.sh",
   "install": {
